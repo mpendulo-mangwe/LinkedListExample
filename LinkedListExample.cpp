@@ -1,4 +1,7 @@
 // LinkedList Example : Console Application
+//Git GUI exercise....
+//Just added comments
+
 #include "stdafx.h"
 #include "MyList.h" 
 #include <iostream>

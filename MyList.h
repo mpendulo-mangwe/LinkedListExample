@@ -1,3 +1,6 @@
+//Git GUI Exercise...
+//Just Added some comments
+
 #pragma once
 
 typedef  char* DataType;

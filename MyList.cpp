@@ -1,3 +1,6 @@
+//Git GUI Exercise...
+//Just Added some comments
+
 #include "StdAfx.h"
 #include <iostream>
 #include "MyList.h"
